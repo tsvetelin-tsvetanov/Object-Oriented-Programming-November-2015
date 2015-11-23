@@ -1,0 +1,6 @@
+C:\Users\Tsvetelin\Desktop\SoftUni\OOP\03.ExceptionHandlingHomework\02.EnterNumbers\bin\Debug\02.EnterNumbers.exe.config
+C:\Users\Tsvetelin\Desktop\SoftUni\OOP\03.ExceptionHandlingHomework\02.EnterNumbers\bin\Debug\02.EnterNumbers.exe
+C:\Users\Tsvetelin\Desktop\SoftUni\OOP\03.ExceptionHandlingHomework\02.EnterNumbers\bin\Debug\02.EnterNumbers.pdb
+C:\Users\Tsvetelin\Desktop\SoftUni\OOP\03.ExceptionHandlingHomework\02.EnterNumbers\obj\Debug\02.EnterNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Tsvetelin\Desktop\SoftUni\OOP\03.ExceptionHandlingHomework\02.EnterNumbers\obj\Debug\02.EnterNumbers.exe
+C:\Users\Tsvetelin\Desktop\SoftUni\OOP\03.ExceptionHandlingHomework\02.EnterNumbers\obj\Debug\02.EnterNumbers.pdb
